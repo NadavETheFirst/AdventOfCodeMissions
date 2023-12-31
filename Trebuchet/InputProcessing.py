@@ -23,14 +23,15 @@ def getValueFrom(LineInput):
 with open('inputs.txt','r') as inputs:
     lines = inputs.read().split("\n")
 
-firstInput = "lmfkvgfzfmhxqrcvsgt28ssmhm5fivethree"
-value = getValueFrom(firstInput)
 
-print(f"value for {firstInput} is {value}")
 
-# i = 0
-# for line in lines:
-#     i += 1
-#     print(f"Line number {i} is: {line}")
-
+i = 0
+sum = 0
+for line in lines:
+    i += 1
+    value = getValueFrom(line)
+    sum+=value
+    print(f"Line number {i} is: {line}, value: {value}")
+    
+print(f"the sum is {sum}")
 
