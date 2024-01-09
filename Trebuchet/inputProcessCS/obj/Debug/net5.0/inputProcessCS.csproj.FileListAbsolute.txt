@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\AdventOfCodeMissions\Trebuchet\inputProcessCS\bin\Debug\net5.0\inputProcessCS.exe
+C:\Users\USER\Desktop\AdventOfCodeMissions\Trebuchet\inputProcessCS\bin\Debug\net5.0\inputProcessCS.deps.json
+C:\Users\USER\Desktop\AdventOfCodeMissions\Trebuchet\inputProcessCS\bin\Debug\net5.0\inputProcessCS.runtimeconfig.json
+C:\Users\USER\Desktop\AdventOfCodeMissions\Trebuchet\inputProcessCS\bin\Debug\net5.0\inputProcessCS.runtimeconfig.dev.json
+C:\Users\USER\Desktop\AdventOfCodeMissions\Trebuchet\inputProcessCS\bin\Debug\net5.0\inputProcessCS.dll
+C:\Users\USER\Desktop\AdventOfCodeMissions\Trebuchet\inputProcessCS\bin\Debug\net5.0\ref\inputProcessCS.dll
+C:\Users\USER\Desktop\AdventOfCodeMissions\Trebuchet\inputProcessCS\bin\Debug\net5.0\inputProcessCS.pdb
+C:\Users\USER\Desktop\AdventOfCodeMissions\Trebuchet\inputProcessCS\obj\Debug\net5.0\inputProcessCS.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\AdventOfCodeMissions\Trebuchet\inputProcessCS\obj\Debug\net5.0\inputProcessCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AdventOfCodeMissions\Trebuchet\inputProcessCS\obj\Debug\net5.0\inputProcessCS.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AdventOfCodeMissions\Trebuchet\inputProcessCS\obj\Debug\net5.0\inputProcessCS.AssemblyInfo.cs
+C:\Users\USER\Desktop\AdventOfCodeMissions\Trebuchet\inputProcessCS\obj\Debug\net5.0\inputProcessCS.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AdventOfCodeMissions\Trebuchet\inputProcessCS\obj\Debug\net5.0\inputProcessCS.dll
+C:\Users\USER\Desktop\AdventOfCodeMissions\Trebuchet\inputProcessCS\obj\Debug\net5.0\ref\inputProcessCS.dll
+C:\Users\USER\Desktop\AdventOfCodeMissions\Trebuchet\inputProcessCS\obj\Debug\net5.0\inputProcessCS.pdb
+C:\Users\USER\Desktop\AdventOfCodeMissions\Trebuchet\inputProcessCS\obj\Debug\net5.0\inputProcessCS.genruntimeconfig.cache
