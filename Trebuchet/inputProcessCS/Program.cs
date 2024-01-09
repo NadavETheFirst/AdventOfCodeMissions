@@ -49,6 +49,45 @@ namespace inputProcessCS
                     }
                 return (firstDig * 10) + lastDig;
         }
-        
+        public static string replaceWordWithDigits(string line)
+        {            
+            string newLine = "";
+
+            for (int i = 0; i < line.Length; i++)
+            {
+                if (char.IsDigit(line[i]))
+                {
+                    newLine += line[i];
+                    continue;
+                }
+                newLine += IsDigitWordStart(line, i);
+            }
+            return newLine;
+        }
+
+        static string IsDigitWordStart(string input, int index)
+        {
+            // Ensure the index is within the bounds of the string
+            if (index < 0 || index >= input.Length)
+            {
+                return "";
+            }
+
+            // Array of digit words
+            string[] digitWords = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
+
+            // Check if any digit word starts at the specified index
+            int i = 0;
+            foreach (string word in digitWords)
+            { 
+                if (input.Substring(index).StartsWith(word, StringComparison.OrdinalIgnoreCase))
+                {
+                    return i.ToString();
+                }
+                i++;
+            }
+
+            return "";
+        }
     }   
 }
